@@ -1,1 +1,3 @@
 this is first lab
+hello GitHub 
+hi github
